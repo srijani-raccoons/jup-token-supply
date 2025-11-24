@@ -1,310 +1,39 @@
 {
   "data": [
-    {
-      "Event": "Jupuary 2024",
-      "Tokens Released": "1000000000",
-      "Circulating Supply": "1000000000",
-      "Total Supply": "10000000000",
-      "Percentage Circulating": "10",
-      "Date": "January 31, 2024",
-      "Component": "Community"
-    },
-    {
-      "Event": "Launch Pool",
-      "Tokens Released": "250000000",
-      "Circulating Supply": "1250000000",
-      "Total Supply": "10000000000",
-      "Percentage Circulating": "12.5",
-      "Date": "January 31, 2024",
-      "Component": "Team"
-    },
-    {
-      "Event": "Loans to Market Makers / CEX",
-      "Tokens Released": "50000000",
-      "Circulating Supply": "1300000000",
-      "Total Supply": "10000000000",
-      "Percentage Circulating": "13",
-      "Date": "January 31, 2024",
-      "Component": "Team"
-    },
-    {
-      "Event": "Immediate LP Needs",
-      "Tokens Released": "17300000",
-      "Circulating Supply": "1317300000",
-      "Total Supply": "10000000000",
-      "Percentage Circulating": "13.17",
-      "Date": "January 31, 2024",
-      "Component": "Team"
-    },
-    {
-      "Event": "ASR #1 [Came from Launchpad Fees]",
-      "Tokens Released": "50000000",
-      "Circulating Supply": "1367300000",
-      "Total Supply": "10000000000",
-      "Percentage Circulating": "13.67",
-      "Date": "July 6, 2024",
-      "Component": "Community"
-    },
-    {
-      "Event": "ASR #2 [Came from Launchpad Fees]",
-      "Tokens Released": "50000000",
-      "Circulating Supply": "1417300000",
-      "Total Supply": "10000000000",
-      "Percentage Circulating": "14.17",
-      "Date": "October 21, 2024",
-      "Component": "Community"
-    },
-    {
-      "Event": "Jupuary 2025",
-      "Tokens Released": "700000000",
-      "Circulating Supply": "2117300000",
-      "Total Supply": "10000000000",
-      "Percentage Circulating": "21.17",
-      "Date": "January 31, 2025",
-      "Component": "Community"
-    },
-    {
-      "Event": "Team Cliff (for 2024)",
-      "Tokens Released": "466666666.7",
-      "Circulating Supply": "2583966666.7",
-      "Total Supply": "7000000000",
-      "Percentage Circulating": "36.91",
-      "Date": "January 31, 2025",
-      "Component": "Team"
-    },
-    {
-      "Event": "Team and Mercurial Vesting (January 2025)",
-      "Tokens Released": "53472222.22",
-      "Circulating Supply": "2637438888.92",
-      "Total Supply": "7000000000",
-      "Percentage Circulating": "37.68",
-      "Date": "February 1, 2025",
-      "Component": "Team"
-    },
-    {
-      "Event": "Team and Mercurial Vesting (February 2025)",
-      "Tokens Released": "53472222.22",
-      "Circulating Supply": "2690911111.14",
-      "Total Supply": "7000000000",
-      "Percentage Circulating": "38.44",
-      "Date": "March 3, 2025",
-      "Component": "Team"
-    },
-    {
-      "Event": "DAO Funding 2024",
-      "Tokens Released": "100000000",
-      "Circulating Supply": "2790911111.14",
-      "Total Supply": "7000000000",
-      "Percentage Circulating": "39.87",
-      "Date": "March 26, 2025",
-      "Component": "Community"
-    },
-    {
-      "Event": "Team and Mercurial Vesting (March 2025)",
-      "Tokens Released": "53472222.22",
-      "Circulating Supply": "2844383333.36",
-      "Total Supply": "7000000000",
-      "Percentage Circulating": "40.63",
-      "Date": "April 2, 2025",
-      "Component": "Team"
-    },
-    {
-      "Event": "Team and Mercurial Vesting (April 2025)",
-      "Tokens Released": "53472222.22",
-      "Circulating Supply": "2897855555.58",
-      "Total Supply": "7000000000",
-      "Percentage Circulating": "41.4",
-      "Date": "May 2, 2025",
-      "Component": "Team"
-    },
-    {
-      "Event": "Team and Mercurial Vesting (May 2025)",
-      "Tokens Released": "53472222.22",
-      "Circulating Supply": "2951327777.8",
-      "Total Supply": "7000000000",
-      "Percentage Circulating": "42.16",
-      "Date": "June 1, 2025",
-      "Component": "Team"
-    },
-    {
-      "Event": "Team and Mercurial Vesting (June 2025)",
-      "Tokens Released": "53472222.22",
-      "Circulating Supply": "3004800000.02",
-      "Total Supply": "7000000000",
-      "Percentage Circulating": "42.93",
-      "Date": "July 1, 2025",
-      "Component": "Team"
-    },
-    {
-      "Event": "Team and Mercurial Vesting (July 2025)",
-      "Tokens Released": "53472222.22",
-      "Circulating Supply": "3058272222.24",
-      "Total Supply": "7000000000",
-      "Percentage Circulating": "43.69",
-      "Date": "July 31, 2025",
-      "Component": "Team"
-    },
-    {
-      "Event": "Team and Mercurial Vesting (August 2025)",
-      "Tokens Released": "53472222.22",
-      "Circulating Supply": "3111744444.46",
-      "Total Supply": "7000000000",
-      "Percentage Circulating": "44.45",
-      "Date": "August 30, 2025",
-      "Component": "Team"
-    },
-    {
-      "Event": "Team and Mercurial Vesting (September 2025)",
-      "Tokens Released": "53472222.22",
-      "Circulating Supply": "3165216666.68",
-      "Total Supply": "7000000000",
-      "Percentage Circulating": "45.22",
-      "Date": "September 29, 2025",
-      "Component": "Team"
-    },
-    {
-      "Event": "Team and Mercurial Vesting (October 2025)",
-      "Tokens Released": "53472222.22",
-      "Circulating Supply": "3218688888.9",
-      "Total Supply": "7000000000",
-      "Percentage Circulating": "45.98",
-      "Date": "October 29, 2025",
-      "Component": "Team"
-    },
-    {
-      "Event": "Team and Mercurial Vesting (November 2025)",
-      "Tokens Released": "53472222.22",
-      "Circulating Supply": "3272161111.12",
-      "Total Supply": "7000000000",
-      "Percentage Circulating": "46.75",
-      "Date": "November 28, 2025",
-      "Component": "Team"
-    },
-    {
-      "Event": "Team and Mercurial Vesting (December 2025)",
-      "Tokens Released": "53472222.22",
-      "Circulating Supply": "3325633333.34",
-      "Total Supply": "7000000000",
-      "Percentage Circulating": "47.51",
-      "Date": "December 28, 2025",
-      "Component": "Team"
-    },
-    {
-      "Event": "Jupuary 2026",
-      "Tokens Released": "700000000",
-      "Circulating Supply": "4025633333.34",
-      "Total Supply": "7000000000",
-      "Percentage Circulating": "57.51",
-      "Date": "January 31, 2026",
-      "Component": "Community"
-    },
-    {
-      "Event": "Team and Mercurial Vesting (January 2026)",
-      "Tokens Released": "53472222.22",
-      "Circulating Supply": "4079105555.56",
-      "Total Supply": "7000000000",
-      "Percentage Circulating": "58.27",
-      "Date": "January 27, 2026",
-      "Component": "Team"
-    },
-    {
-      "Event": "Team and Mercurial Vesting (February 2026)",
-      "Tokens Released": "53472222.22",
-      "Circulating Supply": "4132577777.78",
-      "Total Supply": "7000000000",
-      "Percentage Circulating": "59.04",
-      "Date": "February 26, 2026",
-      "Component": "Team"
-    },
-    {
-      "Event": "Team and Mercurial Vesting (March 2026)",
-      "Tokens Released": "53472222.22",
-      "Circulating Supply": "4186050000",
-      "Total Supply": "7000000000",
-      "Percentage Circulating": "59.8",
-      "Date": "March 28, 2026",
-      "Component": "Team"
-    },
-    {
-      "Event": "Team and Mercurial Vesting (April 2026)",
-      "Tokens Released": "53472222.22",
-      "Circulating Supply": "4239522222.22",
-      "Total Supply": "7000000000",
-      "Percentage Circulating": "60.56",
-      "Date": "April 27, 2026",
-      "Component": "Team"
-    },
-    {
-      "Event": "Team and Mercurial Vesting (May 2026)",
-      "Tokens Released": "53472222.22",
-      "Circulating Supply": "4292994444.44",
-      "Total Supply": "7000000000",
-      "Percentage Circulating": "61.33",
-      "Date": "May 27, 2026",
-      "Component": "Team"
-    },
-    {
-      "Event": "Team and Mercurial Vesting (June 2026)",
-      "Tokens Released": "53472222.22",
-      "Circulating Supply": "4346466666.66",
-      "Total Supply": "7000000000",
-      "Percentage Circulating": "62.09",
-      "Date": "June 26, 2026",
-      "Component": "Team"
-    },
-    {
-      "Event": "Team and Mercurial Vesting (July 2026)",
-      "Tokens Released": "53472222.22",
-      "Circulating Supply": "4399938888.88",
-      "Total Supply": "7000000000",
-      "Percentage Circulating": "62.86",
-      "Date": "July 26, 2026",
-      "Component": "Team"
-    },
-    {
-      "Event": "Team and Mercurial Vesting (August 2026)",
-      "Tokens Released": "53472222.22",
-      "Circulating Supply": "4453411111.1",
-      "Total Supply": "7000000000",
-      "Percentage Circulating": "63.62",
-      "Date": "August 25, 2026",
-      "Component": "Team"
-    },
-    {
-      "Event": "Team and Mercurial Vesting (September 2026)",
-      "Tokens Released": "53472222.22",
-      "Circulating Supply": "4506883333.32",
-      "Total Supply": "7000000000",
-      "Percentage Circulating": "64.38",
-      "Date": "September 24, 2026",
-      "Component": "Team"
-    },
-    {
-      "Event": "Team and Mercurial Vesting (October 2026)",
-      "Tokens Released": "53472222.22",
-      "Circulating Supply": "4560355555.54",
-      "Total Supply": "7000000000",
-      "Percentage Circulating": "65.15",
-      "Date": "October 24, 2026",
-      "Component": "Team"
-    },
-    {
-      "Event": "Team and Mercurial Vesting (November 2026)",
-      "Tokens Released": "53472222.22",
-      "Circulating Supply": "4613827777.76",
-      "Total Supply": "7000000000",
-      "Percentage Circulating": "65.91",
-      "Date": "November 23, 2026",
-      "Component": "Team"
-    },
-    {
-      "Event": "Team and Mercurial Vesting (December 2026)",
-      "Tokens Released": "53472222.22",
-      "Circulating Supply": "4667299999.98",
-      "Total Supply": "7000000000",
-      "Percentage Circulating": "66.68",
-      "Date": "December 23, 2026",
-      "Component": "Team"
-    }
+    {"Event": "Jupuary 2024", "Tokens Released": "1000000000", "Circulating Supply": "1000000000", "Total Supply": "10000000000", "Percentage Circulating": "10", "Date": "January 31, 2024", "Component": "Community"},
+    {"Event": "Launch Pool", "Tokens Released": "250000000", "Circulating Supply": "1250000000", "Total Supply": "10000000000", "Percentage Circulating": "12.5", "Date": "January 31, 2024", "Component": "Team"},
+    {"Event": "Loans to Market Makers / CEX", "Tokens Released": "50000000", "Circulating Supply": "1300000000", "Total Supply": "10000000000", "Percentage Circulating": "13", "Date": "January 31, 2024", "Component": "Team"},
+    {"Event": "Immediate LP Needs", "Tokens Released": "17300000", "Circulating Supply": "1317300000", "Total Supply": "10000000000", "Percentage Circulating": "13.17", "Date": "January 31, 2024", "Component": "Team"},
+    {"Event": "ASR #1 [Came from Launchpad Fees]", "Tokens Released": "50000000", "Circulating Supply": "1367300000", "Total Supply": "10000000000", "Percentage Circulating": "13.67", "Date": "July 6, 2024", "Component": "Community"},
+    {"Event": "ASR #2 [Came from Launchpad Fees]", "Tokens Released": "50000000", "Circulating Supply": "1417300000", "Total Supply": "10000000000", "Percentage Circulating": "14.17", "Date": "October 21, 2024", "Component": "Community"},
+    {"Event": "Jupuary 2025", "Tokens Released": "700000000", "Circulating Supply": "2117300000", "Total Supply": "10000000000", "Percentage Circulating": "21.17", "Date": "January 22, 2025", "Component": "Community"},
+    {"Event": "Team Cliff (for 2024)", "Tokens Released": "466666666.7", "Circulating Supply": "2583966666.7", "Total Supply": "7000000000", "Percentage Circulating": "36.91", "Date": "January 31, 2025", "Component": "Team"},
+    {"Event": "Team and Mercurial Vesting (January 2025)", "Tokens Released": "53472222.22", "Circulating Supply": "2637438888.92", "Total Supply": "7000000000", "Percentage Circulating": "37.68", "Date": "February 1, 2025", "Component": "Team"},
+    {"Event": "Team and Mercurial Vesting (February 2025)", "Tokens Released": "53472222.22", "Circulating Supply": "2690911111.14", "Total Supply": "7000000000", "Percentage Circulating": "38.44", "Date": "March 3, 2025", "Component": "Team"},
+    {"Event": "DAO Funding 2024", "Tokens Released": "100000000", "Circulating Supply": "2790911111.14", "Total Supply": "7000000000", "Percentage Circulating": "39.87", "Date": "March 26, 2025", "Component": "Community"},
+    {"Event": "Team and Mercurial Vesting (March 2025)", "Tokens Released": "53472222.22", "Circulating Supply": "2844383333.36", "Total Supply": "7000000000", "Percentage Circulating": "40.63", "Date": "April 2, 2025", "Component": "Team"},
+    {"Event": "Team and Mercurial Vesting (April 2025)", "Tokens Released": "53472222.22", "Circulating Supply": "2897855555.58", "Total Supply": "7000000000", "Percentage Circulating": "41.4", "Date": "May 2, 2025", "Component": "Team"},
+    {"Event": "Team and Mercurial Vesting (May 2025)", "Tokens Released": "53472222.22", "Circulating Supply": "2951327777.8", "Total Supply": "7000000000", "Percentage Circulating": "42.16", "Date": "June 1, 2025", "Component": "Team"},
+    {"Event": "Team and Mercurial Vesting (June 2025)", "Tokens Released": "53472222.22", "Circulating Supply": "3004800000.02", "Total Supply": "7000000000", "Percentage Circulating": "42.93", "Date": "July 1, 2025", "Component": "Team"},
+    {"Event": "Team and Mercurial Vesting (July 2025)", "Tokens Released": "53472222.22", "Circulating Supply": "3058272222.24", "Total Supply": "7000000000", "Percentage Circulating": "43.69", "Date": "July 31, 2025", "Component": "Team"},
+    {"Event": "Team and Mercurial Vesting (August 2025)", "Tokens Released": "53472222.22", "Circulating Supply": "3111744444.46", "Total Supply": "7000000000", "Percentage Circulating": "44.45", "Date": "August 30, 2025", "Component": "Team"},
+    {"Event": "Team and Mercurial Vesting (September 2025)", "Tokens Released": "53472222.22", "Circulating Supply": "3165025566.92", "Total Supply": "6999808900.24", "Percentage Circulating": "45.22", "Date": "September 29, 2025", "Component": "Team"},
+    {"Event": "Team and Mercurial Vesting (October 2025)", "Tokens Released": "53472222.22", "Circulating Supply": "3218497789.14", "Total Supply": "6999808900.24", "Percentage Circulating": "45.98", "Date": "October 29, 2025", "Component": "Team"},
+    {"Event": "Team and Mercurial Vesting (November 2025)", "Tokens Released": "53472222.22", "Circulating Supply": "3137420060.44", "Total Supply": "6865258949.32", "Percentage Circulating": "45.70", "Date": "November 28, 2025", "Component": "Team"},
+    {"Event": "Team and Mercurial Vesting (December 2025)", "Tokens Released": "53472222.22", "Circulating Supply": "3190892282.66", "Total Supply": "6865258949.32", "Percentage Circulating": "46.48", "Date": "December 28, 2025", "Component": "Team"},
+    {"Event": "Team and Mercurial Vesting (January 2026)", "Tokens Released": "53472222.22", "Circulating Supply": "3244364504.88", "Total Supply": "6865258949.32", "Percentage Circulating": "47.26", "Date": "January 27, 2026", "Component": "Team"},
+    {"Event": "Jupuary 2026 [Initial Airdrop]", "Tokens Released": "200000000", "Circulating Supply": "3444364504.88", "Total Supply": "6865258949.32", "Percentage Circulating": "50.95", "Date": "January 22, 2026", "Component": "Community"},
+    {"Event": "Team and Mercurial Vesting (February 2026)", "Tokens Released": "53472222.22", "Circulating Supply": "3497836727.1", "Total Supply": "6865258949.32", "Percentage Circulating": "50.95", "Date": "February 26, 2026", "Component": "Team"},
+    {"Event": "Team and Mercurial Vesting (March 2026)", "Tokens Released": "53472222.22", "Circulating Supply": "3551308949.32", "Total Supply": "6865258949.32", "Percentage Circulating": "51.73", "Date": "March 28, 2026", "Component": "Team"},
+    {"Event": "Team and Mercurial Vesting (April 2026)", "Tokens Released": "53472222.22", "Circulating Supply": "3604781171.54", "Total Supply": "6865258949.32", "Percentage Circulating": "52.51", "Date": "April 27, 2026", "Component": "Team"},
+    {"Event": "Team and Mercurial Vesting (May 2026)", "Tokens Released": "53472222.22", "Circulating Supply": "3658253393.76", "Total Supply": "6865258949.32", "Percentage Circulating": "53.29", "Date": "May 27, 2026", "Component": "Team"},
+    {"Event": "Team and Mercurial Vesting (June 2026)", "Tokens Released": "53472222.22", "Circulating Supply": "3711725615.98", "Total Supply": "6865258949.32", "Percentage Circulating": "54.07", "Date": "June 26, 2026", "Component": "Team"},
+    {"Event": "Team and Mercurial Vesting (July 2026)", "Tokens Released": "53472222.22", "Circulating Supply": "3765197838.2", "Total Supply": "6865258949.32", "Percentage Circulating": "54.84", "Date": "July 26, 2026", "Component": "Team"},
+    {"Event": "Team and Mercurial Vesting (August 2026)", "Tokens Released": "53472222.22", "Circulating Supply": "3818670060.42", "Total Supply": "6865258949.32", "Percentage Circulating": "55.62", "Date": "August 25, 2026", "Component": "Team"},
+    {"Event": "Team and Mercurial Vesting (September 2026)", "Tokens Released": "53472222.22", "Circulating Supply": "3872142282.64", "Total Supply": "6865258949.32", "Percentage Circulating": "56.4", "Date": "September 24, 2026", "Component": "Team"},
+    {"Event": "Team and Mercurial Vesting (October 2026)", "Tokens Released": "53472222.22", "Circulating Supply": "3925614504.86", "Total Supply": "6865258949.32", "Percentage Circulating": "57.18", "Date": "October 24, 2026", "Component": "Team"},
+    {"Event": "Team and Mercurial Vesting (November 2026)", "Tokens Released": "53472222.22", "Circulating Supply": "3979086727.08", "Total Supply": "6865258949.32", "Percentage Circulating": "57.96", "Date": "November 23, 2026", "Component": "Team"},
+    {"Event": "Team and Mercurial Vesting (December 2026)", "Tokens Released": "53472222.22", "Circulating Supply": "4032558949.3", "Total Supply": "6865258949.32", "Percentage Circulating": "58.74", "Date": "December 23, 2026", "Component": "Team"},
+    {"Event": "Jupuary 2026 [Bonus Pool]", "Tokens Released": "200000000", "Circulating Supply": "4232558949.3", "Total Supply": "6865258949.32", "Percentage Circulating": "61.65", "Date": "January 31, 2027", "Component": "Community"}
   ]
 }
